@@ -22,7 +22,7 @@ const getCountrySummary= async (country)=>{
 
 };
 
-// getCountrySummary("India");
-// getCitySummary("New Delhi");
+getCountrySummary("India");
+getCitySummary("New Delhi");
 getCitySummary("Hyderabaasdasdsadi");
 
