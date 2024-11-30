@@ -25,3 +25,4 @@ const getWikipediaArticle = async (articleName) => {
 getWikipediaArticle("Liverpool");
 console.log(" ");
 getWikipediaArticle("University of Liverpool");
+
