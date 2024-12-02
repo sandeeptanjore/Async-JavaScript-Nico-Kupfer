@@ -28,3 +28,4 @@ const randomTourist = async (placeName) => {
 // Call the function with a place name
 // randomTourist('Barcelona');
 randomTourist('London');
+randomTourist('Bangalore');
